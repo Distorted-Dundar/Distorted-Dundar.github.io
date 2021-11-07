@@ -1,0 +1,112 @@
+.three-layout{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.three-layout img{
+  width: 30%;
+  border: 4px solid black;
+  float: left;
+  margin-left: 4%;
+  height:270px;
+    margin:3px;
+}
+.center-text{
+  padding-left: 0px;
+  width: 28%;
+  height:270px;
+  float: left;
+  margin-left: 4%;
+  margin:3px;
+  background-color: beige;
+  border: 5px solid blue;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.first img{
+  height: 100px;
+  width: 100px;
+}
+.comic {
+  float: right;
+}
+.pink-box{
+  height:450px;
+  width:100%;
+  background-color: pink;
+}
+.pink-box img{
+  height: 170px;
+  border: 4px solid purple;
+}
+.imgs1{
+    width: 28%;
+    height:200px;
+    float: left;
+    margin-left: 4%;
+}
+.imgs1-text{
+  padding-left: 40px;
+  padding-right: 50px;
+  color:white;
+}
+.imgs2-text{
+  padding-left: 50px;
+  padding-top: 50px;
+  color:white;
+}
+.imgs1 p{
+  color:white;
+  margin-top: 0;
+  padding-top: 0px;
+}
+.imgs2{
+    width: 28%;
+    height:200px;
+    float: right;
+    margin-left: 4%;
+    padding-right: 60px;
+}
+.imgs2 p{
+  color:white;
+  margin-top: 0;
+  padding-top: 0px;
+}
+tr .high{
+  background-color: red;
+}
+.contact img {
+  height: 40px;
+}
+
+.more{
+  padding-left: 10px;
+}
+
+/* span:hover {
+  background-color: orange;
+}
+/* .navs {
+  padding-top: 10px;
+  padding: 30px;
+  font-size: 30px;
+} */
+/* .navs a {
+  color: white;
+  text-decoration: none;
+} */
+.navs {
+  padding-top: 10px;
+  padding: 30px;
+  font-size: 20px;
+}
