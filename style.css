@@ -6,11 +6,11 @@ html, body {
   
   
   .main{
-    border: 1px solid red;
+    border: 0px solid red;
   }
   
   .nav{
-        border: 1px solid #dd6464;
+        border: 0px solid #dd6464;
   }
   .qoute{
       margin: auto;
@@ -20,12 +20,12 @@ html, body {
   /*   margin: 1em; */
     font: 1.8rem/1.4 Georgia, serif;
   
-    border: 1px solid #6600ff;
+    border: 0px solid #6600ff;
   }
   .gallery{
   /*       display: flex;
    */
-        border: 1px solid #8cff00;
+        border: 0px solid #8cff00;
   }
   /* .gallery div{
           flex: 1 1 auto;
